@@ -41,5 +41,9 @@ This project analyzes student academic performance using Python and Google Colab
 - Pie chart
 - Attendance analysis
 
-## Author
+## Designed By
 Harsha Kumar Dasari
+K.S.R Harsha vardhan
+U.P.C. Manikanta
+P.S Sai Pawan
+
